@@ -1,0 +1,9 @@
+The only difference between abstract class and interface is
+
+--> abstract class can contain methods and attributes
+--> interface can contain only methods
+
+if we just want to implement some behaviours use interface, but if we want to implement behaviours and have common attributes use abstract classes.
+
+
+

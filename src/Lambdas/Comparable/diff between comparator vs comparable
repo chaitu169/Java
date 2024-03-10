@@ -1,0 +1,4 @@
+1. a class needs to implement comparable interface to provide implementation for compareTo interface
+    to provide default sorting method
+
+2. comparator can be used directly at client side, without making any changes in the class
